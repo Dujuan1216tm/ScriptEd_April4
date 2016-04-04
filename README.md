@@ -24,3 +24,8 @@ TODO List
 * Use a random number to show only one artist each time the page loads
 
 === Now Git Push Your Code Again ===
+
+    git status
+    git add .
+    git commit -m "some changes"
+    git push

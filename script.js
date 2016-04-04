@@ -10,6 +10,27 @@ $(document).ready(function() {
                     albums: ['Graduation','Watch The Throne','Yeezus']
                 };
                 
+    var sean  = {
+                    id: 'sean',
+                    name: 'Sean Paul', 
+                    img: 'http://static.independent.co.uk/s3fs-public/thumbnails/image/2014/12/26/14/sean-paul-crop.jpg',
+                    albums: ['Stage One', 'The Trinity', 'Stage One']
+    }
+    
+    var Drake = {
+                    id: "Drake",
+                    name: 'Aubrey Drake Graham',
+                    img: 'https://i.ytimg.com/vi/vcmPzuMLr1w/maxresdefault.jpg',
+                    albums: ['Thank Me Later', 'Take Care', 'Views from the Six']
+    }
+    
+    var Meek  = {
+                    id: 'Meek Mill',
+                    name: 'Robert Rihmeek Williams',
+                    img: 'http://imb.ulximg.com/image/src/artist/1392673408_deb82fa8448da2d71c950397cbfc47d3.jpg/705b706c41f84f54ba3c9122ee32c768/1392673408_meek_mill2_84.jpg',
+                    albums: ['Milladelphia', 'Dream Chasers 2', 'Dream Chasers 3']
+    }
+    
     // Add our artist object to the array
     artists.push(kanye);
     
